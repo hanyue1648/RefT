@@ -9,11 +9,9 @@ Yue Han, [Jiangning Zhang](https://zhangzjn.github.io/), [Zhucun Xue](http://www
 ![Figure](./fig/teaser.png)
 
 ## Results
-#### gFSIS and gFSOD results
+#### gFSIS 
 ![Figure](./fig/gfsis_res.png)
-#### FSIS and FSOD results
+#### FSIS and iFSIS  results
 ![Figure](./fig/fsis_res.png)
-#### iFSIS and iFSOD results
-![Figure](./fig/ifsis_res.png)
 
 
